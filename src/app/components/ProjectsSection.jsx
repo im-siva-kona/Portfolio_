@@ -12,7 +12,7 @@ const projectsData = [
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/im-siva-kona/Portfolio_",
-    previewUrl: "/",
+    previewUrl: "https://github.com/im-siva-kona/Portfolio_/",
   },
   {
     id: 2,
